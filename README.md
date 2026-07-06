@@ -4,7 +4,7 @@ A multi-page React app for browsing, searching, filtering, reviewing, and
 booking hotels across India, built on top of the **Demo Hotels API**
 (`https://demohotelsapi.pythonanywhere.com/hotels/`).
 
-> "StayFinder" is a Hindi word for "place" or "address" — fitting for an app
+> "StayFinder" — fitting for an app
 > about finding where to stay.
 
 ## Pages
