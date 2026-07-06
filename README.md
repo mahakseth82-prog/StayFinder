@@ -186,7 +186,7 @@ npm run preview   # serve the production build locally
 git init
 git add .
 git commit -m "Initial commit: StayFinder hotel booking app"
-git remote add origin <https://github.com/mahakseth82-prog/StayFinder>
+git remote add origin https://github.com/mahakseth82-prog/StayFinder
 git push -u origin master
 ```
 
